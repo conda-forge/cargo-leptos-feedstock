@@ -1,5 +1,5 @@
 context:
-  version: "0.3.6"
+  version: "0.3.7"
 
 package:
   name: cargo-leptos
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/leptos-rs/cargo-leptos/releases/download/v${{ version }}/source.tar.gz
-  sha256: deb8a9d77bfb28533137fa9400f0a2ad03892d6a6f858265b7548c9e6d0f805b
+  sha256: 6e4b72ede0ca23e1023773c2ccac1b8035b3cbb5ddb1fc721d53b181244cdadb
 
 build:
   number: 0
